@@ -1,0 +1,2 @@
+# No external runtime packages required for the core; optional tooling:
+pyinstaller>=5.0
